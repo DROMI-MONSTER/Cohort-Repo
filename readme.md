@@ -23,5 +23,11 @@ A simple HTML resume project which includes only pure HTML5
 
 > Fork it , Enhance it , Deploy it and Enjoy👍
 
+### **Steps to run it locally**
+* Install git on your system.
+* Run this in your terminal `git clone https://github.com/DROMI-MONSTER/Cohort-Repo`
+* run `cd Cohort-Repo`
+* Now double click on the `index.html`.
+* You have successfully opened the file.
 
 
