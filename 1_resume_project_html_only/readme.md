@@ -3,11 +3,6 @@ A simple HTML resume project which includes only pure HTML5
 
 ---
 
-## **Live Preview Can Be Seen Here**
-##### **[Click Here ↗↗↗](https://timely-melba-dc3726.netlify.app/)**
-
----
-
 ## **My Project Preview**
 
 ![](./result-preview/127.0.0.1_3000_index.html%20(1).png)
